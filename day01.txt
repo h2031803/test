@@ -4,3 +4,4 @@
 4. git log, git checkout 해시코드, git checkout - (git 명령어)
 32323
 232323
+3r2r
